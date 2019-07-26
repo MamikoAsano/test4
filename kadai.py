@@ -1,4 +1,4 @@
 sum = 0
 for i in range(1,10):
     sum += i
-print('sum=', 55)
+print('sum=', 45)
